@@ -28,6 +28,11 @@ S3 Gateway VPC Endpoint
 Private S3 Bucket
 ```
 
+# Private EC2 to S3 via VPC Endpoint — No NAT, No Internet Access
+
+![Architecture Diagram](architecture-diagrams/private-ec2-s3-vpc-endpoint-architecture.png)
+
+
 ## Network Details
 
 ```text
